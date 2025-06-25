@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore model checkpoints or large files if not needed
+*.pt
+*.pth
